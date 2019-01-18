@@ -1,0 +1,10 @@
+F:\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+F:\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.FrmHello.resources
+F:\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+F:\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+F:\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+F:\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+F:\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

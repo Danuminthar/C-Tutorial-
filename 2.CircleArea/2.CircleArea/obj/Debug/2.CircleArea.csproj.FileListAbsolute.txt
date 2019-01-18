@@ -1,0 +1,10 @@
+F:\C#\2.CircleArea\2.CircleArea\bin\Debug\2.CircleArea.exe.config
+F:\C#\2.CircleArea\2.CircleArea\bin\Debug\2.CircleArea.exe
+F:\C#\2.CircleArea\2.CircleArea\bin\Debug\2.CircleArea.pdb
+F:\C#\2.CircleArea\2.CircleArea\obj\Debug\2.CircleArea.csprojAssemblyReference.cache
+F:\C#\2.CircleArea\2.CircleArea\obj\Debug\_2.CircleArea.AreaOfCircle.resources
+F:\C#\2.CircleArea\2.CircleArea\obj\Debug\_2.CircleArea.Properties.Resources.resources
+F:\C#\2.CircleArea\2.CircleArea\obj\Debug\2.CircleArea.csproj.GenerateResource.cache
+F:\C#\2.CircleArea\2.CircleArea\obj\Debug\2.CircleArea.csproj.CoreCompileInputs.cache
+F:\C#\2.CircleArea\2.CircleArea\obj\Debug\2.CircleArea.exe
+F:\C#\2.CircleArea\2.CircleArea\obj\Debug\2.CircleArea.pdb
